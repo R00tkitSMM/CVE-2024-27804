@@ -1,0 +1,1 @@
+DYLD_INSERT_LIBRARIES=./flip.dylib ./vtdecode input_poc/orientation-normal-fragmented.mp4.mov 
